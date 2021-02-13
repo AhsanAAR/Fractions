@@ -1,0 +1,6 @@
+﻿  Fractions_19001.cpp
+D:\GITHUB\C++_Fractions\Fractions_19001\Fractions_19001.cpp(60,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\GITHUB\C++_Fractions\Fractions_19001\Fractions_19001.cpp(115,17): warning C4101: 'in': unreferenced local variable
+  fraction_19001.cpp
+  Generating Code...
+  Fractions_19001.vcxproj -> D:\GITHUB\C++_Fractions\x64\Debug\Fractions_19001.exe
