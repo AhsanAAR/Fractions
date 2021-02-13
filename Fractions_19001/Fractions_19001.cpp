@@ -59,6 +59,7 @@ fraction reduced(fraction f) {
 float toFloat(fraction f){
 	return 1.0 * f.getN() / f.getD();
 }
+
 void print(fraction f){
 	cout << setw(2) << f.getN() << '/' << setw(2) << f.getD() << "  , "
 		<< setw(2) << reduced(f).getN() << '/' << setw(2) << reduced(f).getD() << "  , "
